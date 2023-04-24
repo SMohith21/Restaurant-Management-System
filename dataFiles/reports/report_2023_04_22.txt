@@ -1,0 +1,5 @@
+*********** Order List (2023_04_22) ***********
+Order ID:   1  StaffName:marco polo                      Total:Rs.345.00 
+Order ID:   2  StaffName:marco polo                      Total:Rs.35.00 
+-------------------------------------------------------
+Total sales:Rs.380.0(2)  Canceled:Rs.0.0(0)
